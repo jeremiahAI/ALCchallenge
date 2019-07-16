@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ALC 4 Phase 1</string>
+    <string name="track">Android</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="email">varisiv@gmail.com</string>
+    <string name="phone_number">08031142735</string>
+    <string name="slack_username">Jeremiah</string>
+    <string name="name">Jeremiah Ifeanyichukwu</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
 </resources>

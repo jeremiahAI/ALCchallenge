@@ -1,6 +1,7 @@
 package com.jeremiah.alcchallenge;
 
 import android.content.Intent;
+import android.support.design.button.MaterialButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -21,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Button myProfileButton = findViewById(R.id.my_profile_button);
+        MaterialButton myProfileButton = findViewById(R.id.my_profile_button);
         myProfileButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
